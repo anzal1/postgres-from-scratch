@@ -1,0 +1,11 @@
+# private: reference solutions, launch planning, drafts
+solutions/
+launch-assets/
+LAUNCH.md
+ARTICLE.md
+demo.sh
+
+# generated
+__pycache__/
+experiments/**/uuid_sim.json
+.DS_Store
